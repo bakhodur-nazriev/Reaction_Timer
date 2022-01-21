@@ -6,7 +6,8 @@
 
 <script>
 export default {
-  name: "Block"
+  name: "Block",
+  props: ['delay']
 }
 </script>
 
